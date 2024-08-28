@@ -1,2 +1,2 @@
 # GestureVolumeControl
-![image](https://github.com/user-attachments/assets/6219b2ae-227b-4ed1-ac47-4b2e95884bb6)
+![image](https://github.com/user-attachments/assets/63388de5-2a19-4ad5-879a-ab4aee47ec15)
